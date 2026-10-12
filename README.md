@@ -20,8 +20,8 @@
 - 💻 Frontend Developer building an EdTech platform for teachers and school administrators
 - 🧠 Transitioning into **AI/ML Engineering**: ML, NLP, LLMs, data science
 - ⚛️ Daily stack: **Next.js · React · TypeScript**
-- 🌱 Currently learning: `[what you're studying now]`
-- 🎯 Goal: AI/ML Engineer
+- 🌱 Currently learning: `Data Science`
+- 🎯 Goal: Data Science
 
 </td>
 <td width="40%">
