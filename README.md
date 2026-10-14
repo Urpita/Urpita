@@ -6,8 +6,6 @@
 
 ![Views](https://komarev.com/ghpvc/?username=Urpita&style=flat-square&color=blueviolet)
 
-[![Portfolio](https://voluble-swan-1de204.netlify.app/)](https://YOUR-PORTFOLIO-LINK)
-[![LinkedIn](https://www.linkedin.com/in/urpita-das-628393237/)](https://linkedin.com/in/YOUR-LINK)
 
 </div>
 
