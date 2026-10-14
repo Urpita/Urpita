@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+I+am+Urpita+Das;Frontend+Developer+to+AI%2FML+Engineer;Building+with+React%2C+Next.js+and+NLP" alt="Typing SVG" />
 
-![Views](https://komarev.com/ghpvc/?username=Urpita&style=flat-square&color=blueviolet)
+
 
 
 </div>
