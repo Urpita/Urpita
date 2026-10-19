@@ -91,7 +91,7 @@ urpita@github:~$ whoami
 ## 🤖 AI / ML Work
 
 <p align="center">
-  <img src="assets/coding-animation.svg" width="720" alt="Animated: coding and training an ML model" />
+  <img src=".github/workflows/coding-animation.svg" width="720" alt="Animated: coding and training an ML model" />
 </p>
 
 | Project | What it is | Stack |
@@ -102,7 +102,7 @@ urpita@github:~$ whoami
 | 📊 [EDA-Project](https://github.com/Urpita/EDA-Project) | `[one-line description]` | ![Pandas](https://img.shields.io/badge/Pandas-f472b6?style=flat-square&logo=pandas&logoColor=white) |
 | 📈 [Time-series-demand-forecasting](https://github.com/Urpita/Time-series-demand-forecasting) | `[one-line description]` | ![Python](https://img.shields.io/badge/Python-a78bfa?style=flat-square&logo=python&logoColor=white) |
 
-<img src="assets/divider.svg" width="100%" height="6" alt="divider" />
+<img src=".github/workflows/divider.svg" width="100%" height="6" alt="divider" />
 
 ## 📌 Featured Repositories
 
